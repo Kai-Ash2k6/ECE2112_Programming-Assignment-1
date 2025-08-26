@@ -14,6 +14,13 @@ Name: K. A. Gas*ng-n || Section: 2 ECE - C
     - I debugged my code multiple times and used module notes, YouTube tutorials, and 
       other online references to understand  concepts I was not confident with.
     - This repository is part of my journey in learning basic Python programming
+
+###Analysis of Unpacking List Problem
+- The first element of the list is stored in `first`.
+- The last element of the list is stored in `last`.
+- All elements between the first and last are stored in `middle` using the `*` operator.
+- This shows that Python's unpacking feature allows us to separate a list into specific parts easily, which can be useful for processing sequences of data.
+  
 -------------- How to run ------------- 
     
     1. Clone or download the repository
